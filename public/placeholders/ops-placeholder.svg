@@ -1,0 +1,38 @@
+<svg width="760" height="520" viewBox="0 0 760 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="diag-ops" patternUnits="userSpaceOnUse" width="12" height="12" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="12" stroke="#E9E1D8" stroke-width="3.5"/>
+    </pattern>
+  </defs>
+
+  <rect width="760" height="520" fill="#FCFAF7"/>
+  <rect x="34" y="32" width="692" height="456" rx="24" fill="#FFFFFF" stroke="#E8E1D8"/>
+  <rect x="34" y="32" width="692" height="42" fill="url(#diag-ops)"/>
+  <line x1="394.5" y1="74" x2="394.5" y2="446" stroke="#E8E1D8"/>
+
+  <rect x="72" y="112" width="286" height="296" rx="22" fill="#FCFAF7" stroke="#ECE5DD"/>
+  <rect x="104" y="146" width="110" height="12" rx="6" fill="#111111"/>
+  <rect x="104" y="178" width="126" height="10" rx="5" fill="#C7BEB4"/>
+  <rect x="104" y="228" width="222" height="42" rx="14" fill="#FFFFFF" stroke="#ECE5DD"/>
+  <rect x="126" y="244" width="112" height="10" rx="5" fill="#111111"/>
+  <rect x="104" y="286" width="222" height="42" rx="14" fill="#FFF2F0" stroke="#FFD8D2"/>
+  <rect x="126" y="302" width="128" height="10" rx="5" fill="#111111"/>
+  <rect x="104" y="344" width="222" height="42" rx="14" fill="#FFFFFF" stroke="#ECE5DD"/>
+  <rect x="126" y="360" width="104" height="10" rx="5" fill="#111111"/>
+
+  <rect x="428" y="112" width="262" height="78" rx="18" fill="#FFFFFF" stroke="#ECE5DD"/>
+  <rect x="456" y="138" width="90" height="10" rx="5" fill="#111111"/>
+  <rect x="564" y="130" width="88" height="26" rx="13" fill="#EAF4EE" stroke="#C9E5D3"/>
+  <rect x="584" y="138" width="48" height="10" rx="5" fill="#4A9C65"/>
+
+  <rect x="428" y="206" width="262" height="78" rx="18" fill="#FFFFFF" stroke="#ECE5DD"/>
+  <rect x="456" y="232" width="106" height="10" rx="5" fill="#111111"/>
+  <rect x="574" y="224" width="78" height="26" rx="13" fill="#FFF2F0" stroke="#FFD8D2"/>
+  <rect x="592" y="232" width="42" height="10" rx="5" fill="#FF4538"/>
+
+  <rect x="428" y="300" width="262" height="108" rx="18" fill="#FCFAF7" stroke="#ECE5DD"/>
+  <rect x="428" y="300" width="262" height="28" fill="url(#diag-ops)"/>
+  <rect x="456" y="346" width="94" height="10" rx="5" fill="#111111"/>
+  <rect x="456" y="374" width="154" height="8" rx="4" fill="#C7BEB4"/>
+  <rect x="456" y="392" width="132" height="8" rx="4" fill="#E0D8CF"/>
+</svg>
